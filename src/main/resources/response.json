@@ -1,0 +1,389 @@
+{
+  "results": {
+    "items": [
+      {
+        "position": [
+          52.53304,
+          13.37965
+        ],
+        "distance": 416,
+        "title": "Total Station",
+        "averageRating": 0,
+        "category": {
+          "id": "petrol-station",
+          "title": "Petrol Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/petrol-station?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/18.icon",
+        "vicinity": "Chausseestraﬂe<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/2768lxx5-b41d234d8cdf0817382d1c14a312f867;context=Zmxvdy1pZD04ZmQyMmIzZC02ODNhLTU4MzUtOGFiMy1jN2NmNWE3NjM3MjRfMTU5NTkzMzAxMDU0N18wXzI5NjgmcmFuaz0w?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "id": "2768lxx5-b41d234d8cdf0817382d1c14a312f867"
+      },
+      {
+        "position": [
+          52.5371,
+          13.37526
+        ],
+        "distance": 936,
+        "title": "TOTAL",
+        "averageRating": 0,
+        "category": {
+          "id": "petrol-station",
+          "title": "Petrol Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/petrol-station?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/18.icon",
+        "vicinity": "Chausseestraﬂe 61<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-dfb5ec1fed614c7fa7f10df85bf986cf;context=Zmxvdy1pZD04ZmQyMmIzZC02ODNhLTU4MzUtOGFiMy1jN2NmNWE3NjM3MjRfMTU5NTkzMzAxMDU0N18wXzI5NjgmcmFuaz0x?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "id": "276u33db-dfb5ec1fed614c7fa7f10df85bf986cf",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "35"
+        ]
+      },
+      {
+        "position": [
+          52.54072,
+          13.39323
+        ],
+        "distance": 1222,
+        "title": "ARAL",
+        "averageRating": 0,
+        "category": {
+          "id": "petrol-station",
+          "title": "Petrol Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/petrol-station?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/18.icon",
+        "vicinity": "Brunnenstraﬂe 119<br/>Gesundbrunnen, 13355 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-ebf1627e0d6d4d589a657c063d09b5f3;context=Zmxvdy1pZD04ZmQyMmIzZC02ODNhLTU4MzUtOGFiMy1jN2NmNWE3NjM3MjRfMTU5NTkzMzAxMDU0N18wXzI5NjgmcmFuaz0y?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "id": "276u33db-ebf1627e0d6d4d589a657c063d09b5f3",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "6"
+        ]
+      },
+      {
+        "position": [
+          52.52668,
+          13.39678
+        ],
+        "distance": 942,
+        "title": "Cl‰rchens Ballhaus",
+        "averageRating": 0,
+        "category": {
+          "id": "dance-night-club",
+          "title": "Dance or Nightclub",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/dance-night-club?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/33.icon",
+        "vicinity": "Auguststraﬂe 24<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-1f255df198f448b68b092db402f80138;context=Zmxvdy1pZD01YzBlYjQ2NC0wYmY2LTUwNDQtOTUxMy0wNWI2NjAxNzAxMWZfMTU5NTkzMzAxMDc3N18wXzI3OCZyYW5rPTA?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "tags": [
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-1f255df198f448b68b092db402f80138"
+      },
+      {
+        "position": [
+          52.52513,
+          13.39213
+        ],
+        "distance": 820,
+        "title": "Aufsturz",
+        "averageRating": 0,
+        "category": {
+          "id": "bar-pub",
+          "title": "Bar/Pub",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/bar-pub?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/22.icon",
+        "vicinity": "Oranienburger Straﬂe 67<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-7d47fc8810374fe2becff8f20b959ec4;context=Zmxvdy1pZD01YzBlYjQ2NC0wYmY2LTUwNDQtOTUxMy0wNWI2NjAxNzAxMWZfMTU5NTkzMzAxMDc3N18wXzI3OCZyYW5rPTE?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "international",
+            "title": "International",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-7d47fc8810374fe2becff8f20b959ec4",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 02:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT14H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.53147,
+          13.39461
+        ],
+        "distance": 666,
+        "title": "Katz Orange",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Bergstraﬂe 22<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-a7caef68d3b44bf79b53af5c47a91cc0;context=Zmxvdy1pZD01YzBlYjQ2NC0wYmY2LTUwNDQtOTUxMy0wNWI2NjAxNzAxMWZfMTU5NTkzMzAxMDc3N18wXzI3OCZyYW5rPTI?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "international",
+            "title": "International",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-a7caef68d3b44bf79b53af5c47a91cc0",
+        "openingHours": {
+          "text": "Mon-Sun: 18:00 - 00:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T180000",
+              "duration": "PT06H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.54027,
+          13.40246
+        ],
+        "distance": 1578,
+        "title": "Flohmarkt am Mauerpark",
+        "averageRating": 0,
+        "category": {
+          "id": "shop",
+          "title": "Shop",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/shop?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/09.icon",
+        "vicinity": "Bernauer Straﬂe 63<br/>Gesundbrunnen, 13355 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-8532dd81df244cd39ab8756eb29594c2;context=Zmxvdy1pZD0yMTk4YmYxOS05ZjAzLTVmMDItOWRlYi1kZjA4MzY5NTUwM2NfMTU5NTkzMzAxMTAxOF8wXzI1NzkmcmFuaz0w?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "id": "276u33db-8532dd81df244cd39ab8756eb29594c2",
+        "openingHours": {
+          "text": "Sun: 09:00 - 18:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T090000",
+              "duration": "PT09H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.50856,
+          13.37539
+        ],
+        "distance": 2575,
+        "title": "Potsdamer Platz Arkaden",
+        "averageRating": 0,
+        "category": {
+          "id": "mall",
+          "title": "Shopping Centre",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/mall?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/09.icon",
+        "vicinity": "Alte Potsdamer Straﬂe 7<br/>Tiergarten, 10785 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-5c18342050374372b4cd878c99fae0db;context=Zmxvdy1pZD0yMTk4YmYxOS05ZjAzLTVmMDItOWRlYi1kZjA4MzY5NTUwM2NfMTU5NTkzMzAxMTAxOF8wXzI1NzkmcmFuaz0x?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "id": "276u33d8-5c18342050374372b4cd878c99fae0db",
+        "openingHours": {
+          "text": "Mon-Sat: 10:00 - 21:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T100000",
+              "duration": "PT11H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            }
+          ]
+        },
+        "chainIds": [
+          "6825"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Potsdamer Platz Arkaden Berlin",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.52255,
+          13.4128
+        ],
+        "distance": 2114,
+        "title": "Park Inn by Radisson Berlin Alexanderplatz",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "Alexanderplatz<br/>Mitte, 10178 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33dc-7f2aef1e8eee4e7ead301c71a7be3713;context=Zmxvdy1pZD0yMTk4YmYxOS05ZjAzLTVmMDItOWRlYi1kZjA4MzY5NTUwM2NfMTU5NTkzMzAxMTAxOF8wXzI1NzkmcmFuaz0y?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A",
+        "id": "276u33dc-7f2aef1e8eee4e7ead301c71a7be3713",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "2922"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Park Inn Alexanderplatz",
+            "language": "en"
+          },
+          {
+            "name": "Park Inn Berlin Alexanderplatz",
+            "language": "en"
+          },
+          {
+            "name": "Park Inn By Radisson Berlin Alexanderplatz Hotel Berlin",
+            "language": "en"
+          },
+          {
+            "name": "Park Inn by Radisson",
+            "language": "de"
+          }
+        ]
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.531,
+          13.3848
+        ],
+        "address": {
+          "text": "Invalidenstraﬂe 117<br/>Mitte, 10115 Berlin<br/>Germany",
+          "house": "117",
+          "street": "Invalidenstraﬂe",
+          "postalCode": "10115",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPUludmFsaWRlbnN0cmElQzMlOUZlKzExNztsYXQ9NTIuNTMxO2xvbj0xMy4zODQ4O3N0cmVldD1JbnZhbGlkZW5zdHJhJUMzJTlGZTtob3VzZT0xMTc7Y2l0eT1CZXJsaW47cG9zdGFsQ29kZT0xMDExNTtjb3VudHJ5PURFVTtkaXN0cmljdD1NaXR0ZTtzdGF0ZUNvZGU9QmVybGluO2NvdW50eT1CZXJsaW47Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw;context=c2VhcmNoQ29udGV4dD0x?app_id=M43szwHxO6CFOL8A9K4o&app_code=ibzBbcmse5k90giaoPUC8A"
+    }
+  }
+}
